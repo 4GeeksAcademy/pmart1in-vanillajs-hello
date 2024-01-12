@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.my-card span {
+  font-size: 45px;
+}
+
+.my-card p {
+  font-size: 60px;
+}
